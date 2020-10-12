@@ -1,16 +1,24 @@
-### Hi there 👋
+## Hey Visitor :eyes:
 
-<!--
-**samgohel/samgohel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+### Who am I:question: 
+<code>"Hello, I'm a Software Engineering at [Adit Microsys Pvt. Ltd.](https://www.aditmicrosys.com)"</code>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Where did I work earlier:question::woman_technologist:
+<code>* [Ivy Point Solution](https://ivypointsolutions.com) [Data Engineer]</code>
+<code>* [Mercury Infoway](http://mercuryinfoway.in) [Java Developer]</code>  
+<code>* [TOPS Technologies](https://www.tops-int.com/location/c-g-road/) [Java Application Developer Trainee]</code>    
+
+### What am I learning:question:
+<code>["Node.js" , "Microservices" , "Big Data"];</code>
+
+### What can I help with:question:
+<code>"Anything Realted To Java And Spring"</code>
+
+### How to connect with me:question:
+:star: <code>[Mail](mailto:shambhu.gohel@yahoo.com)</code>    
+:star: <code>[Twitter](https://twitter.com/sam_gohel)</code>  
+:star: <code>[LinkedIn](https://www.linkedin.com/in/shambhu-gohel-806636b9/)</code>  
+:star: <code>[Medium](https://medium.com/@gohelshambhu)</code>  
+
+
