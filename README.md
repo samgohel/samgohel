@@ -74,8 +74,8 @@ Here are a few technologies I'm working with lately:
 A glimpse into my open-source and personal contributions.
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=samgohel&show_icons=true&theme=radical&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samgohel&layout=compact&theme=radical" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=shambhugohel&show_icons=true&theme=radical&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shambhugohel&layout=compact&theme=radical" />
 </p>
 
 ---
